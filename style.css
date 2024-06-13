@@ -1,0 +1,105 @@
+/* EXISTENCE SELECTOR CODE */
+
+p[class]{
+     color: red;
+}
+/* EQUALITY SELECTOR CODE */
+
+p[class="target1"]{
+	color: BLUE;
+}
+
+/* SPACE SELECTOR */
+
+p[class~="fox"]{
+	color: pink;
+}
+
+/* PREFIX SELECTOR */
+
+p[class^="d"]{
+	color: white;
+}
+
+/* SUBSTRING SELECTOR */
+
+
+
+/* SUFFIX SELECTOR */
+
+p[CLASS$="d"]{
+	color: BLUE;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+h1{
+   color: gold;
+   text-align: center;
+   font-size: 32px;
+}
+
+h3{
+	color: gold;
+    
+}
+
+body{
+	background-color: grey;
+}
